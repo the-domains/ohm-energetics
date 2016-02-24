@@ -1,7 +1,7 @@
 name: Ohm Energetics
 favicon: null
-layout_spectrum: 0.40808394527994096
-typography_spectrum: 0.8865296428557485
+layout_spectrum: 1
+typography_spectrum: 0.55743
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#ffffff'
+    - '#000000'
+    - '#99ca3a'
+    - '#434343'
+    - '#a8a8a8'
   brandStrength: 0.5007819388993084
   lightness: 0.9671967732720077
   saturation: 0.668347553582862
