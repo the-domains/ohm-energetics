@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Ohm Energetics]]></title>
         <description><![CDATA[Ohm Energetics]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ohm-energetics/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Feb 2016 03:23:33 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 24 Feb 2016 03:23:51 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ohm-energetics/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p></p>]]></description>
+            <link>https://thegrid.ai/ohm-energetics/fa97fe9c-e64d-40a1-9040-3487bff426d3/index.html</link>
+            <guid isPermaLink="false">fa97fe9c-e64d-40a1-9040-3487bff426d3</guid>
+            <pubDate>Wed, 24 Feb 2016 03:23:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5b0358fd-73cd-44c7-be7d-8a00dbc68258.JPG">]]></description>
-            <link>undefined7ee7a943-5a1a-472f-9470-247d238f5b7d/index.html</link>
+            <link>https://thegrid.ai/ohm-energetics/7ee7a943-5a1a-472f-9470-247d238f5b7d/index.html</link>
             <guid isPermaLink="false">7ee7a943-5a1a-472f-9470-247d238f5b7d</guid>
             <pubDate>Wed, 24 Feb 2016 03:23:10 GMT</pubDate>
         </item>
